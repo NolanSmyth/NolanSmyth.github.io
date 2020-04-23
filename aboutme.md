@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why are you here?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Here are some things that were true at the time of writing
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- My name Nolan
+- I'm a graduate student in Physics at UC Santa Cruz
 
-What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- I graduated from Colgate University in May 2018 with a BA in Physics
+
+- I worked at NASA's Goddard Space Flight Center over the summer of 2018
