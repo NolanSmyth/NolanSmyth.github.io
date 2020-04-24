@@ -12,7 +12,8 @@ Howard Haber's [Problem Set 1](http://scipp.ucsc.edu/~haber/ph222/qftiii20_1.pdf
 
 [My solutions](https://nolansmyth.github.io/assets/QFT3_HW1.pdf) here.
 
-- Computational
+- Computational 
+
 In undergraduate I made a smoothed particle hydrodynamics simulation in MATLAB (thankfully my MATLAB days are in the past). Check out the demos [here](https://github.com/NolanSmyth/Smoothed-particle-hydrodynamics)
 
 
