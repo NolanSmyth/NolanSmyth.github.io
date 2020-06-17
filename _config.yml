@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Physics: 
     - Research: "research"
-    - Coursework: "coursework"
+    - Notes: "notes"
     - Teaching: "teaching"
   Music: "music"
   Author's home: "https://google.com"
