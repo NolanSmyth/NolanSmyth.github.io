@@ -24,7 +24,10 @@ Here I'll compile my notes, projects, and homework problems that I may find usef
 
 [Problem Set 1: Inverse Propagator, Generating Functionals, Green Function EOM, Exact Feynman Propagator in Coordinate Space](http://scipp.ucsc.edu/~haber/ph222/qftiii20_1.pdf) * [My solution set 1](https://nolansmyth.github.io/assets/QFT3_HW1.pdf)
 
-[Final Project: The Operator Product Expansion](http://scipp.ucsc.edu/~haber/ph222/[Nolan%20Smyth]_The_Operator_Product_Expansion)
+[Final Presentation: The Operator Product Expansion](http://scipp.ucsc.edu/~haber/ph222/[Nolan%20Smyth]_The_Operator_Product_Expansion)
+
+### - QFT2
+[Final Presentation: The Strong CP Problem](https://drive.google.com/file/d/16XgEyLjb9LdVtVTCwFZvdW6kx_q_hxQA/view?usp=sharing)
 
 ### - Quantum Mechanics
 

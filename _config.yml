@@ -25,6 +25,7 @@ navbar-links:
     - Research: "research"
     - Notes: "notes"
     - Teaching: "teaching"
+    - CV: 'https://nolansmyth.github.io/assets/Nolan_Smyth_CV.pdf'
   Music: "music"
   Author's home: "https://google.com"
 
