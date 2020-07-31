@@ -245,6 +245,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-commonmark-ghpages
   jekyll-paginate
 
 BUNDLED WITH
