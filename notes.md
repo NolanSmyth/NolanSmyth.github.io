@@ -8,9 +8,15 @@ Here I'll compile my notes, projects, and homework problems that I may find usef
 
 ## Notes
 
+### Physics
+
 [Intro to Dark Matter](https://drive.google.com/file/d/1KzpEt2id5KqnxUWpr0ebqMdTbIGVj2uh/view?usp=sharing)
 
+[Gravitational Lensing Overview](https://drive.google.com/file/d/1odSd7ClzkYXv4H2OltLilYWpQEQJnfds/view?usp=sharing)
+
 [Gaussian Integrals in QFT](https://drive.google.com/file/d/1uQZOfD9xw4gE9EHYandfunwnxNK1m7kR/view?usp=sharing)
+
+[Lorentz Group Representations + Spinors](https://drive.google.com/file/d/1xG87L_VGdBjkfz0VVtxByr-wI3jbj5Wj/view?usp=sharing)
 
 [Jeans Analysis](https://drive.google.com/file/d/17F6PY19kr87pg3_6gddkg1MiA7jSYIfd/view?usp=sharing)
 
@@ -19,6 +25,15 @@ Here I'll compile my notes, projects, and homework problems that I may find usef
 [Kinetic Recoupling of Dark Matter](https://drive.google.com/file/d/1KlmK_Iv_O_BpkvVmQG-_M4sFd5JnygiF/view?usp=sharing)
 
 [Scalar Yukawa + QED Triangle Diagrams (Toy model for Higgs to photons)](https://drive.google.com/file/d/1rBbqwgoRS9Lj4T6_YFlOlJT0lCePA45D/view?usp=sharing)
+
+### Group Theory (for Physicists)
+
+[Subgroups and Decomposition](https://drive.google.com/file/d/1bdt8AivvD1nngL8R9ExIF1OILvXEUar6/view?usp=sharing)
+
+[Equivalency Classes (aka Conjugacy Classes)](https://drive.google.com/file/d/1HeIlERiQZ5KHdlwTG2htymybIOR4NDsW/view?usp=sharing)
+
+[Representations and Reducibility](https://drive.google.com/file/d/16gb60fLzJEIDrsvVw1aDwGnETVhZcQKZ/view?usp=sharing)
+
 
 ## Courses
 
