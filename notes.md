@@ -25,7 +25,7 @@ Here I'll compile my notes, projects, and homework problems that I find useful. 
 
 <a href="https://drive.google.com/file/d/1KlmK_Iv_O_BpkvVmQG-_M4sFd5JnygiF/view?usp=sharing">Kinetic Recoupling of Dark Matter</a>
 
-<a href="https://drive.google.com/file/d/1rBbqwgoRS9Lj4T6_YFlOlJT0lCePA45D/view?usp=sharing">Scalar Yukawa + QED Triangle Diagrams (Toy model for Higgs to photons </a>
+<a href="https://drive.google.com/file/d/1rBbqwgoRS9Lj4T6_YFlOlJT0lCePA45D/view?usp=sharing">Scalar Yukawa + QED Triangle Diagrams (Toy model for Higgs to photons) </a>
 
 <a href="https://drive.google.com/file/d/1rF3Mhf9DBc3jEuzT3VhWNfv5X3kHbSBv/view?usp=sharing">Inflation </a>
 
