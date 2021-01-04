@@ -24,7 +24,7 @@ navbar-links:
   Physics: 
     - Research: "research"
     - Notes: "notes"
-    - Teaching: "teaching"
+    # - Teaching: "teaching"
     - CV: 'https://nolansmyth.github.io/assets/Nolan_Smyth_CV.pdf'
   Music: "music"
   Author's home: "https://nolan-smyth.com"
