@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: AKA Strategic Humble Bragging
+subtitle: Strategic Humble Bragging
 ---
 
 Here are some things that were true at the time of writing
